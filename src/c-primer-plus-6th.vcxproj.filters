@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Ch01">
+      <UniqueIdentifier>{e3044702-d2ab-492a-8edc-f7118be516b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch02">
+      <UniqueIdentifier>{76add552-ed3f-4eaf-a45d-8c2169d98783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch03">
+      <UniqueIdentifier>{56767b75-79c7-4903-ad48-54536f891ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch04">
+      <UniqueIdentifier>{1024ec37-2721-431a-b70a-db4ce6f52155}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch05">
+      <UniqueIdentifier>{bce981f5-6bc0-4778-98db-a68c2a6017be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch06">
+      <UniqueIdentifier>{cbcf2635-7a13-4603-ae64-3fc243f9dcf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch07">
+      <UniqueIdentifier>{d58ff205-dae2-4db3-9c31-d0db7dc1c72b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch08">
+      <UniqueIdentifier>{810b6d65-b3fa-4d01-92c8-8517d4db61e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch09">
+      <UniqueIdentifier>{8c9b4b0d-a328-4d14-aafb-4c4ccf56aa2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch10">
+      <UniqueIdentifier>{c41819ae-a849-4ae6-9c1a-edefc4ecc2f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch11">
+      <UniqueIdentifier>{e6e07091-e21b-4c46-b3f6-c32bc6e546ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch12">
+      <UniqueIdentifier>{3f93e7d1-e5e1-4841-95a5-5c7be891e591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch13">
+      <UniqueIdentifier>{2fa2cbc8-5555-4e1a-bd2e-0666d94de374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch14">
+      <UniqueIdentifier>{9b3e657f-762e-4c15-bbec-7d8d1da870cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch15">
+      <UniqueIdentifier>{aff22ac5-6ede-491b-85e0-c0d165fad82b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch16">
+      <UniqueIdentifier>{020646be-936c-4596-8f30-04fae2b7cdaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch17">
+      <UniqueIdentifier>{d399426c-637f-4584-acbb-ab3c7d7df9bd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="c-primer-plus-6th.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch01\inform.c">
+      <Filter>Source Files\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch01\listing1.c">
+      <Filter>Source Files\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch01\listing2.c">
+      <Filter>Source Files\Ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch02\nogood.c">
+      <Filter>Source Files\Ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch02\stillbad.c">
+      <Filter>Source Files\Ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch02\two_func.c">
+      <Filter>Source Files\Ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch02\fathm_ft.c">
+      <Filter>Source Files\Ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch02\first.c">
+      <Filter>Source Files\Ch02</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\list.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\mall.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\petclub.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\queue.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\tree.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\use_q.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\films1.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\films2.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch17\films3.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\copy1.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\copy2.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\copy3.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\fgets1.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\fgets2.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\fgets3.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\format.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\getsputs.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\join_chk.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\mod_str.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\name1.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\nogo.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\nono.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\p_and_s.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\put_out.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\put_put.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\quit_chk.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\repeat.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\scan_str.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\sort_str.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\starsrch.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\str_cat.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\strcnvt.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\strings1.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\strptr.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\test_fit.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\addresses.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\arrchar.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\compare.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11\compback.c">
+      <Filter>Source Files\Ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\flags.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\floatcnv.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\floats.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\input.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\intconv.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\longstrg.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\pizza.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\praise1.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\praise2.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\printout.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\prntval.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\skiptwo.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\stringf.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\talkback.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\varwid.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\width.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch04\defines.c">
+      <Filter>Source Files\Ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\addemup.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\bottles.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\convert.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\divide.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\golf.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\min_sec.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\post_pre.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\pound.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\rules.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\running.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\shoes1.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\shoes2.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\sizeof.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\squares.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\wheat.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch05\add_one.c">
+      <Filter>Source Files\Ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\do_while.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\entry.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_13s.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_char.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_cube.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_down.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_geo.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_none.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_show.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\for_wild.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\postage.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\power.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\rows1.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\rows2.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\scores_in.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\summing.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\sweetie1.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\sweetie2.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\t_and_f.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\trouble.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\truth.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\when.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\while1.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\while2.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\zeno.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\boolean.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch06\cmpflt.c">
+      <Filter>Source Files\Ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\lesser.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\lethead1.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\lethead2.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\loccheck.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\misuse.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\proto.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\recur.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\swap1.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\swap2.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\usehotel.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\binary.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\factor.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch09\hotel.c">
+      <Filter>Source Files\Ch09</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\bases.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\charcode.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\escape.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\floaterr.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\platinum.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\print1.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\print2.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\showf_pt.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\toobig.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\typesize.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\altnames.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch03\badcount.c">
+      <Filter>Source Files\Ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\flexmemb.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\friend.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\friends.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\funct_ptr.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\funds1.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\funds2.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\funds3.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\funds4.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\manybook.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\names1.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\names2.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\names3.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\book.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\booksave.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\complit.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch14\enum.c">
+      <Filter>Source Files\Ch14</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch15\fields.c">
+      <Filter>Source Files\Ch15</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch15\invert4.c">
+      <Filter>Source Files\Ch15</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch15\align.c">
+      <Filter>Source Files\Ch15</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch15\binbit.c">
+      <Filter>Source Files\Ch15</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch15\dualview.c">
+      <Filter>Source Files\Ch15</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ch17\list.h">
+      <Filter>Source Files\Ch17</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch17\queue.h">
+      <Filter>Source Files\Ch17</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch17\tree.h">
+      <Filter>Source Files\Ch17</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch09\hotel.h">
+      <Filter>Source Files\Ch09</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
